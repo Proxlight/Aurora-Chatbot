@@ -12,7 +12,7 @@ import httpx
 # =============================
 # Configuration
 # =============================
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR KEY HERE"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 # OpenRouter model id (DeepSeek R1)
 # If you have access to a specific variant, you can also try:
